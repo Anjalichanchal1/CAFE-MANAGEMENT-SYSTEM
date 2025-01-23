@@ -1,26 +1,10 @@
 # CAFE-MANAGEMENT-SYSTEM
 Project Name: Restaurant Order Management System
-Description:
-This project is a simple Python-based application designed to manage restaurant orders interactively. Users can view a menu, select items to order, and calculate the total amount. The program is user-friendly and offers a streamlined way to handle orders for small restaurants or food stalls.
+This Python project is a simple command-line application for managing restaurant orders. It displays a predefined menu with item prices and allows users to select items to place their order. The program dynamically calculates the total amount based on user input. It supports adding multiple items and validates the availability of ordered items. The code is easy to understand and implement, making it ideal for beginners learning Python.
 
-Features:
-
-Displays a menu with item names and prices.
-Allows users to input their orders dynamically.
-Handles additional orders and updates the total bill in real-time.
-Provides error handling for unavailable menu items.
-Technologies Used:
-
-Python (Core functionality)
-How It Works:
-
-The application displays a menu with available items and their prices.
-Users are prompted to input the name of the item they want to order.
-The program checks the availability of the item and adds its price to the total.
-Users are given an option to add another item to their order.
-The program calculates and displays the total amount at the end.
-Future Enhancements:
-
-Extend the menu to include dynamic updates from a file or database.
-Add features like discount calculation or order history.
-Build a graphical user interface (GUI) for better user interaction.
+Key Features:
+Displays a menu with item prices.
+Takes user input for ordering items.
+Calculates the total bill dynamically.
+Validates item availability.
+Simple and interactive design for efficient order management.
