@@ -1,6 +1,5 @@
 # CAFE-MANAGEMENT-SYSTEM
 Project Name: Restaurant Order Management System
-
 Description:
 This project is a simple Python-based application designed to manage restaurant orders interactively. Users can view a menu, select items to order, and calculate the total amount. The program is user-friendly and offers a streamlined way to handle orders for small restaurants or food stalls.
 
